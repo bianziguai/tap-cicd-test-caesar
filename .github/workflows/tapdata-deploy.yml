@@ -14,9 +14,9 @@ on:
         required: true
         type: choice
         options:
-          - DEV
-          - SIT
-          - UAT
+          - dev
+          - sit
+          - lpt
       project:
         description: 'Project name (留空则取 vars.PROJECT_NAME，再回落到仓库名)'
         required: false
