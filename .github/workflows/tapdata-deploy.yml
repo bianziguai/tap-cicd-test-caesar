@@ -14,9 +14,9 @@ on:
         required: true
         type: choice
         options:
-          - dev
-          - sit
-          - lpt
+          - DEV
+          - SIT
+          - UAT
       project:
         description: 'Project name (留空则取 vars.PROJECT_NAME，再回落到仓库名)'
         required: false
@@ -38,3 +38,6 @@ jobs:
     secrets:
       # 显式传递 GITHUB_TOKEN，让被调用的 workflow 能够认证
       GH_DEPLOY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      DEV_TAPDATA_ACCESSCODE: ${{ secrets.DEV_TAPDATA_ACCESS_CODE }}
+      SIT_TAPDATA_ACCESSCODE: ${{ secrets.SIT_TAPDATA_ACCESS_CODE }}
+      LPT_TAPDATA_ACCESSCODE: ${{ secrets.LPT_TAPDATA_ACCESSCODE }}
