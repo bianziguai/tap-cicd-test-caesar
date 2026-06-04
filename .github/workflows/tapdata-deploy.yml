@@ -35,4 +35,6 @@ jobs:
       caller_event: ${{ github.event_name }}
       caller_ref: ${{ github.ref }}
       worker_repo: "bianziguai/tapdata-cicd-worker"
-    secrets: inherit
+    secrets:
+      # 显式传递 GITHUB_TOKEN，让被调用的 workflow 能够认证
+      GH_DEPLOY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
