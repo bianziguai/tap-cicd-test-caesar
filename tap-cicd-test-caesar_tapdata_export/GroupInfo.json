@@ -1,0 +1,19 @@
+[ {
+  "collectionName" : "GroupInfo",
+  "json" : {
+    "description" : "",
+    "gitInfo" : {
+      "branch" : "main",
+      "repoUrl" : "https://github.com/bianziguai/tap-cicd-test-caesar.git"
+    },
+    "id" : "6a213be2ec3026310e3a38b0",
+    "name" : "tap-cicd-test-caesar",
+    "resetTaskList" : [ ],
+    "resourceItemList" : [ {
+      "id" : "6a1fd75e4c497de2aca652f0",
+      "name" : "index test",
+      "type" : "MIGRATE_TASK"
+    } ],
+    "user_id" : "62bc5008d4958d013d97c7a6"
+  }
+} ]
