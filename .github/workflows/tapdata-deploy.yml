@@ -26,7 +26,7 @@ on:
 jobs:
   deploy:
     # TODO: Replace {WORKER_REPO} with actual org/repo, e.g. your-org/tapdata-cicd-worker
-    uses: "bianziguai/tapdata-cicd-worker/.github/workflows/tapdata-deploy.yml@main"
+    uses: "testcaesarcicd/tapdata-cicd-worker/.github/workflows/tapdata-deploy.yml@main"
     with:
       project: ${{ inputs.project || vars.PROJECT_NAME || github.event.repository.name }}
       target_env: ${{ inputs.target_env || '' }}
@@ -34,7 +34,7 @@ jobs:
       caller_sha: ${{ github.sha }}
       caller_event: ${{ github.event_name }}
       caller_ref: ${{ github.ref }}
-      worker_repo: "bianziguai/tapdata-cicd-worker"
+      worker_repo: "testcaesarcicd/tapdata-cicd-worker"
     secrets:
       # 显式传递 GITHUB_TOKEN，让被调用的 workflow 能够认证
       GH_DEPLOY_TOKEN: ${{ secrets.GITHUB_TOKEN }}
