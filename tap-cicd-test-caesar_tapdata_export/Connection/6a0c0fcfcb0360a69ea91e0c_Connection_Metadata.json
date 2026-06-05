@@ -43,8 +43,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "user_id" : "62bc5008d4958d013d97c7a6",
@@ -579,7 +578,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -590,8 +589,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -869,7 +867,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -880,8 +878,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -1119,7 +1116,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -1130,8 +1127,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -1349,7 +1345,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -1360,8 +1356,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -1459,7 +1454,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -1470,8 +1465,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -1568,7 +1562,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -1579,8 +1573,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -1925,7 +1918,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -1936,8 +1929,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -2855,7 +2847,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -2866,8 +2858,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -3089,7 +3080,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -3100,8 +3091,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -3339,7 +3329,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -3350,8 +3340,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -4093,7 +4082,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -4104,8 +4093,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -4767,7 +4755,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -4778,8 +4766,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -5897,7 +5884,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -5908,8 +5895,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -6191,7 +6177,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -6202,8 +6188,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -8211,7 +8196,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -8222,8 +8207,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -8346,7 +8330,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -8357,8 +8341,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -8511,7 +8494,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -8522,8 +8505,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -8676,7 +8658,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -8687,8 +8669,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
@@ -8822,7 +8803,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 19,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "Mongodb",
       "plain_password" : "",
@@ -8833,8 +8814,7 @@
       "submit" : true,
       "tableCount" : 19,
       "testTime" : 1780647158963,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "tableAttr" : {
