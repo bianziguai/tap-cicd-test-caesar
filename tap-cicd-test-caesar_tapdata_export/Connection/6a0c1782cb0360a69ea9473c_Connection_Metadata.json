@@ -41,8 +41,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "user_id" : "62bc5008d4958d013d97c7a6",
@@ -160,9 +159,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -173,8 +172,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -269,9 +267,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -282,8 +280,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -532,9 +529,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -545,8 +542,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -751,9 +747,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -764,8 +760,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -1042,9 +1037,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -1055,8 +1050,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -1173,9 +1167,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -1186,8 +1180,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -1304,9 +1297,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -1317,8 +1310,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -1439,9 +1431,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -1452,8 +1444,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -1684,9 +1675,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -1697,8 +1688,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -2009,9 +1999,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -2022,8 +2012,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -2144,9 +2133,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -2157,8 +2146,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -2355,9 +2343,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -2368,8 +2356,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -2698,9 +2685,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -2711,8 +2698,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -3357,9 +3343,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -3370,8 +3356,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -3580,9 +3565,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -3593,8 +3578,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -5775,9 +5759,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -5788,8 +5772,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -6028,9 +6011,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -6041,8 +6024,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -6475,9 +6457,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -6488,8 +6470,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -6922,9 +6903,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -6935,8 +6916,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -7255,9 +7235,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 80,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -7268,8 +7248,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -7578,7 +7557,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -7589,8 +7568,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -8057,7 +8035,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -8068,8 +8046,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -8254,7 +8231,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -8265,8 +8242,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -8693,7 +8669,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -8704,8 +8680,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -8824,7 +8799,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -8835,8 +8810,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -8999,7 +8973,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -9010,8 +8984,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -9152,7 +9125,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -9163,8 +9136,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -9349,7 +9321,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -9360,8 +9332,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -9480,7 +9451,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -9491,8 +9462,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -9611,7 +9581,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -9622,8 +9592,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -9808,7 +9777,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -9819,8 +9788,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -10059,7 +10027,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -10070,8 +10038,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -10454,7 +10421,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -10465,8 +10432,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -10585,7 +10551,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -10596,8 +10562,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -10760,7 +10725,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -10771,8 +10736,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -10965,7 +10929,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -10976,8 +10940,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -11342,7 +11305,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -11353,8 +11316,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -12267,7 +12229,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -12278,8 +12240,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -12750,7 +12711,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -12761,8 +12722,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -13839,7 +13799,7 @@
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
       "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -13850,8 +13810,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -15504,9 +15463,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -15517,8 +15476,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -16673,9 +16631,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -16686,8 +16644,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -17024,9 +16981,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -17037,8 +16994,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -17247,9 +17203,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -17260,8 +17216,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -17760,9 +17715,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -17773,8 +17728,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -18119,9 +18073,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -18132,8 +18086,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -18272,9 +18225,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -18285,8 +18238,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -18549,9 +18501,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -18562,8 +18514,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -18850,9 +18801,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -18863,8 +18814,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -19169,9 +19119,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -19182,8 +19132,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -19480,9 +19429,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -19493,8 +19442,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -19945,9 +19893,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -19958,8 +19906,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -20292,9 +20239,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -20305,8 +20252,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -20511,9 +20457,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -20524,8 +20470,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -20734,9 +20679,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -20747,8 +20692,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -21111,9 +21055,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -21124,8 +21068,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -21492,9 +21435,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -21505,8 +21448,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -21837,9 +21779,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -21850,8 +21792,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -22056,9 +21997,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -22069,8 +22010,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -22415,9 +22355,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 40,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -22428,8 +22368,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -22712,9 +22651,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -22725,8 +22664,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -22844,9 +22782,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -22857,8 +22795,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -22997,9 +22934,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -23010,8 +22947,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -23150,9 +23086,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -23163,8 +23099,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -23809,9 +23744,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -23822,8 +23757,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -23918,9 +23852,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -23931,8 +23865,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -24225,9 +24158,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -24238,8 +24171,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -24924,9 +24856,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -24937,8 +24869,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -25541,9 +25472,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -25554,8 +25485,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -25698,9 +25628,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -25711,8 +25641,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -26119,9 +26048,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -26132,8 +26061,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -26534,9 +26462,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -26547,8 +26475,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -26845,9 +26772,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -26858,8 +26785,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -27376,9 +27302,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -27389,8 +27315,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -27507,9 +27432,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -27520,8 +27445,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -27704,9 +27628,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -27717,8 +27641,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -27835,9 +27758,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -27848,8 +27771,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -27988,9 +27910,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -28001,8 +27923,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -28207,9 +28128,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -28220,8 +28141,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -28520,9 +28440,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 60,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -28533,8 +28453,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -29544,9 +29463,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -29557,8 +29476,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -30568,9 +30486,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -30581,8 +30499,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -31227,9 +31144,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -31240,8 +31157,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -31492,9 +31408,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -31505,8 +31421,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -31711,9 +31626,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -31724,8 +31639,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -32682,9 +32596,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -32695,8 +32609,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -32898,9 +32811,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -32911,8 +32824,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -33287,9 +33199,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -33300,8 +33212,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -33506,9 +33417,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -33519,8 +33430,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -34311,9 +34221,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -34324,8 +34234,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -34516,9 +34425,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -34529,8 +34438,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -35087,9 +34995,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -35100,8 +35008,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -35442,9 +35349,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -35455,8 +35362,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -35603,9 +35509,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -35616,8 +35522,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -35738,9 +35643,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -35751,8 +35656,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -35921,9 +35825,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -35934,8 +35838,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -36372,9 +36275,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -36385,8 +36288,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -36693,9 +36595,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -36706,8 +36608,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -36806,9 +36707,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -36819,8 +36720,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -36919,9 +36819,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 20,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -36932,8 +36832,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -37076,9 +36975,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -37089,8 +36988,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -37281,9 +37179,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -37294,8 +37192,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -37662,9 +37559,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -37675,8 +37572,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -38052,9 +37948,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -38065,8 +37961,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -38413,9 +38308,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -38426,8 +38321,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -39050,9 +38944,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -39063,8 +38957,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -39182,9 +39075,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -39195,8 +39088,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -39314,9 +39206,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -39327,8 +39219,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -39423,9 +39314,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -39436,8 +39327,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -39620,9 +39510,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -39633,8 +39523,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -39751,9 +39640,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -39764,8 +39653,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -39932,9 +39820,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -39945,8 +39833,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -40041,9 +39928,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -40054,8 +39941,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"
@@ -40250,9 +40136,9 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 100,
+      "loadCount" : 114,
       "loadFieldErrMsg" : "",
-      "loadFieldsStatus" : "loading",
+      "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
       "name" : "HKPMI",
       "plain_password" : "",
@@ -40263,8 +40149,7 @@
       "submit" : true,
       "tableCount" : 114,
       "testTime" : 1780509601723,
-      "transformed" : true,
-      "user_id" : "62bc5008d4958d013d97c7a6"
+      "transformed" : true
     },
     "sourceType" : "SOURCE",
     "username" : "admin@admin.com"

@@ -48,6 +48,15 @@
       "id" : "query_field_min_max_value_function",
       "type" : 11
     }, {
+      "id" : "transaction_begin_function",
+      "type" : 11
+    }, {
+      "id" : "transaction_commit_function",
+      "type" : 11
+    }, {
+      "id" : "transaction_rollback_function",
+      "type" : 11
+    }, {
       "id" : "get_table_info_function",
       "type" : 11
     }, {
@@ -72,6 +81,9 @@
       "type" : 20
     }, {
       "id" : "api_server_supported",
+      "type" : 20
+    }, {
+      "id" : "source_support_exactly_once",
       "type" : 20
     } ],
     "config" : {
@@ -124,7 +136,7 @@
     "kafkaProducerRequestTimeout" : 0,
     "kafkaProducerUseTransactional" : false,
     "kafkaRetries" : 0,
-    "lastUpdAt" : 1779273401145,
+    "lastUpdAt" : 1780650047409,
     "loadAllTables" : true,
     "loadCount" : 19,
     "loadFieldErrMsg" : "",
