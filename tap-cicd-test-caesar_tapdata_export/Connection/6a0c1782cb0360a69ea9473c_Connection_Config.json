@@ -267,7 +267,7 @@
     },
     "schema" : { },
     "schemaUpdateHour" : "default",
-    "schemaVersion" : "02945cbb-550b-4c36-bde1-0ed3748424c6",
+    "schemaVersion" : "797c0c71-f77e-4236-8d97-4f46ee65880b",
     "shareCDCExternalStorageId" : "",
     "shareCdcEnable" : false,
     "submit" : true,
