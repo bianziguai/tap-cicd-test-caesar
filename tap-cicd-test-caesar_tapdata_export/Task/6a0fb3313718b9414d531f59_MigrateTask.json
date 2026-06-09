@@ -302,6 +302,7 @@
     "reFullRun" : false,
     "readBatchSize" : 500,
     "restartFlag" : false,
+    "scheduleDate" : 1780911645849,
     "shareCache" : false,
     "shareCdcEnable" : false,
     "showInspectTips" : false,

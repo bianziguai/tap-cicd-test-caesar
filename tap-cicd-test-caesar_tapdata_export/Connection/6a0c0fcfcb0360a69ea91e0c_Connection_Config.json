@@ -76,16 +76,12 @@
     } ],
     "config" : {
       "__connectionType" : "source_and_target",
-      "additionalString" : "authSource=admin",
-      "database" : "drill_test",
-      "host" : "113.98.206.142:37017",
       "id" : "6a0c0fcfcb0360a69ea91e0c",
-      "isUri" : false,
+      "isUri" : true,
       "mongodbLoadSchemaSampleSize" : 1000,
       "password" : "Gotapd8!",
       "schemaLimit" : 1024,
-      "ssl" : false,
-      "user" : "root"
+      "ssl" : false
     },
     "connection_type" : "source_and_target",
     "createAt" : 1779175375937,
@@ -180,7 +176,7 @@
     },
     "schema" : { },
     "schemaUpdateHour" : "default",
-    "schemaVersion" : "4985c815-0280-44d3-8752-6816cce22070",
+    "schemaVersion" : "688218f8-3955-4ed2-8025-32fc1610bf0b",
     "shareCDCExternalStorageId" : "",
     "shareCdcEnable" : false,
     "submit" : true,
