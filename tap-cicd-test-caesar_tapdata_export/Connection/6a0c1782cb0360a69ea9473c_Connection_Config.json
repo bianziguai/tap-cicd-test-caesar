@@ -252,11 +252,11 @@
         "sort" : 0,
         "status" : "passed"
       }, {
-        "fail_message" : "Cdc can work normally",
-        "required" : true,
+        "error_code" : "410003",
+        "required" : false,
         "show_msg" : "Read log",
         "sort" : 0,
-        "status" : "passed"
+        "status" : "failed"
       }, {
         "fail_message" : "113.98.206.142:25432",
         "required" : true,
@@ -267,7 +267,7 @@
     },
     "schema" : { },
     "schemaUpdateHour" : "default",
-    "schemaVersion" : "797c0c71-f77e-4236-8d97-4f46ee65880b",
+    "schemaVersion" : "26efc78c-8870-4928-9cad-34091dca153d",
     "shareCDCExternalStorageId" : "",
     "shareCdcEnable" : false,
     "submit" : true,
