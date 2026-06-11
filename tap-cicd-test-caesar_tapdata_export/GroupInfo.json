@@ -6,12 +6,12 @@
       "branch" : "main",
       "repoUrl" : "https://github.com/testcaesarcicd/tap-cicd-test-caesar.git"
     },
-    "id" : "6a2a2a9c3df2b4ac8ece95fd",
+    "id" : "6a2a2bb83df2b4ac8ed1d819",
     "name" : "tap-cicd-test-caesar",
     "resetTaskList" : [ ],
     "resourceItemList" : [ {
-      "id" : "6a0c2470c86a57ae4109cbb4",
-      "name" : "MDM_CPI_CASE_MODEL",
+      "id" : "6a2a16963df2b4ac8e944ab5",
+      "name" : "FDMTOMDM_HKPMI",
       "type" : "SYNC_TASK"
     } ],
     "user_id" : "62bc5008d4958d013d97c7a6"
