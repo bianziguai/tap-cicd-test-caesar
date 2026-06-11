@@ -142,11 +142,11 @@
         "sort" : 0,
         "status" : "passed"
       }, {
-        "fail_message" : "\"172.26.44.143:27017,172.26.44.145:27017\"",
-        "required" : false,
+        "fail_message" : "[172.26.44.144:27017]",
+        "required" : true,
         "show_msg" : "Check host port is valid",
         "sort" : 0,
-        "status" : "failed"
+        "status" : "passed"
       }, {
         "fail_message" : "login succeed!",
         "required" : true,
@@ -178,7 +178,7 @@
     },
     "schema" : { },
     "schemaUpdateHour" : "default",
-    "schemaVersion" : "61f7ad9d-caee-4bba-b4a9-4fe691595dcc",
+    "schemaVersion" : "5e14f53d-1a03-4e2e-b7ce-e0b3b48eb4ed",
     "shareCDCExternalStorageId" : "",
     "shareCdcEnable" : false,
     "submit" : true,
