@@ -79,6 +79,7 @@
     } ],
     "config" : {
       "__connectionType" : "source_and_target",
+      "id" : "6a0bd518f3ec7a07ad1ef869",
       "isUri" : true,
       "mongodbLoadSchemaSampleSize" : 1000,
       "schemaLimit" : 1024,
@@ -175,8 +176,10 @@
         "status" : "passed"
       } ]
     },
+    "schema" : { },
     "schemaUpdateHour" : "default",
-    "schemaVersion" : "dfc8a0e7-3cf8-4327-8dcf-822e78013021",
+    "schemaVersion" : "e59495e3-45b0-4ec2-b6c5-8440dcd0ab84",
+    "shareCDCExternalStorageId" : "",
     "shareCdcEnable" : false,
     "submit" : true,
     "tableCount" : 21,
