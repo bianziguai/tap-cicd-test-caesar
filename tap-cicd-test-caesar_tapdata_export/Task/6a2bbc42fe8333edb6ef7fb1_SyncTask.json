@@ -953,7 +953,7 @@
       "kafkaIgnoreInvalidRecord" : false,
       "kafkaIgnorePushError" : false,
       "lastUpdBy" : "62bc5008d4958d013d97c7a6",
-      "loadCount" : 19,
+      "loadCount" : 26,
       "loadFieldErrMsg" : "",
       "loadFieldsStatus" : "finished",
       "loadSchemaField" : true,
@@ -961,11 +961,11 @@
       "plain_password" : "",
       "project" : "",
       "retry" : 0,
-      "schemaVersion" : "a4d5b096-dfd6-4e2c-931f-25e54a00da23",
+      "schemaVersion" : "c92a3ab1-1911-4ebd-801b-1d36db6e91e4",
       "status" : "ready",
       "submit" : true,
-      "tableCount" : 19,
-      "testTime" : 1781200802176,
+      "tableCount" : 26,
+      "testTime" : 1781373602165,
       "transformed" : true,
       "user_id" : "62bc5008d4958d013d97c7a6"
     },
@@ -979,7 +979,7 @@
       "storageSize" : 5689344
     },
     "taskId" : "6a2bbc42fe8333edb6ef7fb1",
-    "transformUuid" : "1781256046314",
+    "transformUuid" : "1781487850916",
     "user_id" : "62bc5008d4958d013d97c7a6",
     "username" : "admin@admin.com"
   }
@@ -1633,7 +1633,7 @@
       "storageSize" : 5689344
     },
     "taskId" : "6a2bbc42fe8333edb6ef7fb1",
-    "transformUuid" : "1781256046314",
+    "transformUuid" : "1781487850916",
     "user_id" : "62bc5008d4958d013d97c7a6",
     "username" : "admin@admin.com"
   }
@@ -2288,7 +2288,7 @@
       "storageSize" : 5689344
     },
     "taskId" : "6a2bbc42fe8333edb6ef7fb1",
-    "transformUuid" : "1781256046314",
+    "transformUuid" : "1781487850916",
     "user_id" : "62bc5008d4958d013d97c7a6",
     "username" : "admin@admin.com"
   }

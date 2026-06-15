@@ -48,15 +48,6 @@
       "id" : "query_field_min_max_value_function",
       "type" : 11
     }, {
-      "id" : "transaction_begin_function",
-      "type" : 11
-    }, {
-      "id" : "transaction_commit_function",
-      "type" : 11
-    }, {
-      "id" : "transaction_rollback_function",
-      "type" : 11
-    }, {
       "id" : "get_table_info_function",
       "type" : 11
     }, {
@@ -81,9 +72,6 @@
       "type" : 20
     }, {
       "id" : "api_server_supported",
-      "type" : 20
-    }, {
-      "id" : "source_support_exactly_once",
       "type" : 20
     } ],
     "config" : {
@@ -134,7 +122,7 @@
     "kafkaRetries" : 0,
     "lastUpdAt" : 1781237214674,
     "loadAllTables" : true,
-    "loadCount" : 19,
+    "loadCount" : 26,
     "loadFieldErrMsg" : "",
     "loadFieldsStatus" : "finished",
     "name" : "Mongodb",
@@ -188,11 +176,11 @@
     },
     "schema" : { },
     "schemaUpdateHour" : "default",
-    "schemaVersion" : "a4d5b096-dfd6-4e2c-931f-25e54a00da23",
+    "schemaVersion" : "c92a3ab1-1911-4ebd-801b-1d36db6e91e4",
     "shareCDCExternalStorageId" : "",
     "shareCdcEnable" : false,
     "submit" : true,
-    "tableCount" : 19,
+    "tableCount" : 26,
     "testCount" : 0,
     "timeDifference" : 0,
     "user_id" : "62bc5008d4958d013d97c7a6"
